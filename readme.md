@@ -1,8 +1,10 @@
+### 使用Unet进行人体分割，做着玩的demo
+
 -------------------------------------------
-A new repository for person segmentation
+A new repository for person segmentation: [Person-Segmentation-Keras](https://github.com/TianzhongSong/Person-Segmentation-Keras)
 -------------------------------------------
 
-使用Unet进行人体分割，做着玩的demo
+
 
 参考自(https://github.com/divamgupta/image-segmentation-keras)
 
