@@ -1,5 +1,11 @@
 ### 使用Unet进行人体分割，做着玩的demo
 
+---------------------------Update 08/07/2018---------------------------
+
+A new repository for person segmentation: [Person-Segmentation-Keras](https://github.com/TianzhongSong/Person-Segmentation-Keras)
+
+-----------------------------------------------------------------------
+
 参考自(https://github.com/divamgupta/image-segmentation-keras)
 
 数据是自己采的一点数据，在data文件夹下
